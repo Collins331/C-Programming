@@ -8,17 +8,14 @@ To create a heading , '#' is used ranging from 1(largest) - to 6(smallest) e.g:
 ###### Smallest-leve heading
 <!--when you use two or more headings , GitHub automatically generates a table of content that you access by clicking ⁝Ξ within the file header-->
 
-# STYLING TEXT
+# STYLING TEXT	
 
-Style			Syntax 					example			
+Bold 			         ** **       or '__  __'			     ** Bold **
+Italic 			    '*  *'         or '_    _'		      	* Italic *  
+Strikethrough		     '~~  ~~'       				~~Strikethrough~~  
+Subscript 		      '<sub></sub>'			   	<sub>Subscript</sub>  
 
-Bold 			** **
-or '__  __'			** Bold **
-Italic 			'*  *' or '_    _'			* Italic *
-Strikethrough		'~~  ~~'     				~~Strikethrough~~
-Subscript 		'<sub></sub>'				<sub>Subscript</sub>
-
-#QUOTING TEXT
+### QUOTING TEXT
 
 To quote a text we use '>':
 > This is a quote
@@ -30,7 +27,7 @@ git commit
 git push
 ```
 
-#Task list
-- [×] Learn about how tp write good README.md
+###Task list
+- [ ] Learn about how tp write good README.md
 - [ ] Practice c programming projects
 - [ ] Learn more about git
