@@ -12,8 +12,7 @@ To create a heading , '#' is used ranging from 1(largest) - to 6(smallest) e.g:
 
 Style			Syntax 					example			
 
-Bold 			** **
-or '__  __'			** Bold **
+Bold 			** **     or '__  __'			** Bold **
 Italic 			'*  *' or '_    _'			* Italic *
 Strikethrough		'~~  ~~'     				~~Strikethrough~~
 Subscript 		'<sub></sub>'				<sub>Subscript</sub>
