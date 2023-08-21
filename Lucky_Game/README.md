@@ -6,7 +6,7 @@
 ## To compile the file code to executable file use the following command in your terminal:
 
 ```
-gcc -Wall -Werror -Wextra -pedantic -std=gnu89 -o Luckygame
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o Luckygame
 ```
 
 #### To play the game, run this script in your terminal after compilation

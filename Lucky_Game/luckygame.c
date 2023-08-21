@@ -43,6 +43,7 @@ int luckygame(void)
         }
         trial++;
     }
+    return (0);
 }
 /*
  *main - entry point to the application
